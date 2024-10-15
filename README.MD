@@ -1,2 +1,2 @@
-# this is south africa
-# our capital city is Pretoria
+# this is USA
+# our capital city is Washington DC
